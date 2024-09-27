@@ -1,3 +1,2 @@
 央视,#genre#
 韩国,#genre#
-韩国KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
